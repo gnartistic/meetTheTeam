@@ -40,4 +40,4 @@ describe("Engineer", () => {
         const obj = new Engineer();
         expect(obj.getRole()).toEqual("Engineer");
     })
-})
+});
