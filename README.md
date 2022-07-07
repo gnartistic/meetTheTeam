@@ -1,7 +1,7 @@
 # meetTheTeam Staffing Directory Generator
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  deployment:https://gnartistic.github.io/meetTheTeam/  
+  deployment: https://gnartistic.github.io/meetTheTeam/  
   ## Description
   
   meetTheTeam is a node.js application that uses user input to generate a development team staffing directory. It currently supports the collection of data for the current roles: Team Manager, Engineer, and Intern.
@@ -34,7 +34,11 @@
   
   ## Test-Instructions
   
-  Please install jest through the commend line with ```npm install --save-dev jest``` then you may enter ```npm run test```
+  Please install jest through the command line with...
+  ```npm install --save-dev jest``` 
+
+  then you may enter...
+  ```npm run test```
   
   ## Questions
   
