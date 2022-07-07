@@ -3,7 +3,12 @@
     text-indent: .5rem;
 }
 
-.manager-card {
-    width: 30%;
+
+.level {
+    align-items: center;
+    justify-content: left;
 }
 
+.content ul {
+    list-style: none
+}
