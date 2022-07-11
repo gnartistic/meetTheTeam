@@ -3,8 +3,8 @@
   
   ## Deployment
   [![Click this to view walkthrough video](/assets/images/My%20project.jpg)](https://vimeo.com/728667581)
-  
-  ![screenshot 1](/assets/images/Screen%20Shot%202022-07-10%20at%205.28.20%20PM.png)
+
+  [![screenshot 1](/assets/images/Screen%20Shot%202022-07-10%20at%205.28.20%20PM.png)](https://gnartistic.github.io/meetTheTeam)
 
   ## Description
   
