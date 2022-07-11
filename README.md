@@ -1,7 +1,11 @@
 # meetTheTeam Staffing Directory Generator
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  deployment: https://gnartistic.github.io/meetTheTeam/  
+  ## Deployment
+  [![Click this to view walkthrough video](/assets/images/My%20project.jpg)](https://vimeo.com/728667581)
+  
+  ![screenshot 1](/assets/images/Screen%20Shot%202022-07-10%20at%205.28.20%20PM.png)
+
   ## Description
   
   meetTheTeam is a node.js application that uses user input to generate a development team staffing directory. It currently supports the collection of data for the current roles: Team Manager, Engineer, and Intern.
